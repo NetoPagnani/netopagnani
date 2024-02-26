@@ -1,5 +1,4 @@
-Olá, eu sou Orlando Pagnani Neto, um desenvolvedor de software que ama criar aplicativos incríveis com Dart e Flutter. Tenho experiência em desenvolvimento multiplataforma, web e mobile, usando o framework do Google que é rápido, bonito e produtivo. Você pode ver alguns dos meus projetos aqui
-
+Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcionais. Estou sempre buscando aprender novas tecnologias e ferramentas para melhorar minhas habilidades e projetos.
 ##
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=netopagnani&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
