@@ -28,7 +28,5 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
 </div>
 
 
- ![Snake animation](https://github.com/NetoPagnani
-/
-netopagnani/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/netoPagnani/netopagnani/blob/output/github-contribution-grid-snake.svg)
 
