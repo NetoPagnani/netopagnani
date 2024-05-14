@@ -17,6 +17,7 @@ Sou um desenvolvedor front-end apaixonado por criar interfaces bonitas e funcion
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-plain-wordmark.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  ![snake gif](https://github.com/NetoPagnani/netopagnani/blob/output/github-contribution-grid-snake.svg)
 </div>
   
   ##
